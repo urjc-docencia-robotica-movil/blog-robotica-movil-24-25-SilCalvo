@@ -17,7 +17,7 @@ Avanzar hasta obstaculo, girar 90 grados, avanzar 2 segundos, girar 90 grados (c
 
 
 ### ALGORITMO Nº2 ESTADO RECUPERACION
-Para solucionar el problema de los obstaculos añadimos un estado que consista en que cuando se choque con alguno, de marcha atras y gire ciertos grados, para intentar alejarse de este. Permitiendo cubrir gran parte del mapa.  ![Foto del mapa](Photo2.jpeg)) 
+Para solucionar el problema de los obstaculos añadimos un estado que consista en que cuando se choque con alguno, de marcha atras y gire ciertos grados, para intentar alejarse de este. Permitiendo cubrir gran parte del mapa.  ![Foto del mapa](Photo2.png)) 
 
 **Problemas:** 
 1. Cuando es un obstaculo funciona, pero no cuando es una esquina, ya que al girar y luego volver a avanzar se vuelve a dar, con la posibilidad de salir pero siendo poco óptimo.
