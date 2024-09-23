@@ -23,8 +23,11 @@ Para solucionar el problema de los obstaculos añadimos un estado que consista e
 1. Cuando es un obstaculo funciona, pero no cuando es una esquina, ya que al girar y luego volver a avanzar se vuelve a dar, con la posibilidad de salir pero siendo poco óptimo.
 
 
-### ALGORITMO Nº3 ESTADO SCAPE
+### ALGORITMO Nº3 ESTADO SCAPE v1
 Para solucionar el problema de las esquinas añadimos un estado llamado SCAPE el cual intenta salir de las esquinas usando el laser para medir las distancias a las paredes a saber por donde hay huecos. 
 
+**Problemas:** 
+1. Como estaba planteado el estado scape, se complica el salir de las habitaciones, asique se hizo una modificacion quedadno en la v2
+ ![Foto del mapa](Photo3.png)) 
 
 
