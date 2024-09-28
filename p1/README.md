@@ -56,7 +56,7 @@ Debido a los problemas a la hora de grabar los videos, para demostrar el tiempo 
  ![Foto del mapa](Photo_init.png)
  ![Foto del mapa](Photo_finish.png)
 
- ![Foto del mapa](Photo_finit1.png)
+ ![Foto del mapa](Photo_init1.png)
  ![Foto del mapa](Photo_finish1.png)
 
 Estos son dos ejemplos, los cuales en menos de 15 minutos (12 y 13 respectivamente) 
