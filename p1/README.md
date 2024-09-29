@@ -62,7 +62,7 @@ Como se puede comprobar, al tener varibles random, hay veces que el robot llega 
 A partir del dia 26 de septiembre, la granja de ordenadores de la universidad dejó de funcionar (daba error de que no se podia conectar a ella y no dejaba entrar en vacuum cleaner y mas adelante dejaba entrar pero nunca se conectaba el docker) , por lo que las pruebas las realicé con mi ordenador, siendo su rendimiento mucho mas bajo. Por ello, se va a ver en el siguiente video (velocidad x4) que la pantalla de gazebo y la pantalla donde se ve las zonas por las que ha pasado van desfasadas. 
 
 
- ++ VIDEO
+ [video](https://urjc-my.sharepoint.com/:v:/g/personal/s_calvo_2022_alumnos_urjc_es/EUKfurEL5gJOlo5tyHCTFbsBL5IvTUK8W0beVo4eNPNEfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LFKA4W)
 
 Estos son dos ejemplos, los cuales en menos de 15 minutos 
 
