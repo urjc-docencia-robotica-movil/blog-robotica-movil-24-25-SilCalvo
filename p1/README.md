@@ -68,5 +68,4 @@ A partir del dia 26 de septiembre, la granja de ordenadores de la universidad de
 
  [video](https://urjc-my.sharepoint.com/:v:/g/personal/s_calvo_2022_alumnos_urjc_es/EUKfurEL5gJOlo5tyHCTFbsBL5IvTUK8W0beVo4eNPNEfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LFKA4W)
 
-Estos son dos ejemplos, los cuales en menos de 15 minutos 
 
