@@ -51,6 +51,8 @@ En el algoritmo anterior funcionaba muy eficientemete pero solo en unas determin
 
 El robot avanzará con velocidad angular y linear, hasta chocarse, retrocederá y dependiendo del lado del choque girará en un sentido u en otro un tiempo random entre 4 y 5.5 segundos. Si se encuentra que se está chocando muy seguido, pasa al estado scape mencionado en el apartado anterior.
 
+[PhotoGrafo](Grafo.jpg)
+
 Como se puede comprobar, al tener varibles random, hay veces que el robot llega a todas las salas y hay otras que no.
 
 ![Foto del mapa](Photo_finish.png)
