@@ -49,7 +49,9 @@ Para solucionar el problema de las esquinas añadimos un estado llamado SCAPE el
  ### ALGORITMO Nº4 RANDOM
 En el algoritmo anterior funcionaba muy eficientemete pero solo en unas determinadas condiciones, el robot deberia empezar siempre en la esquina superior derecha y estar alineado con la pared. Por ello, y por lo mencionado en clase por el profesor (que deberiamos randomizar el programa para que no se ajustase a un mapa en concreto), cambié el algoritmo al siguiente:
 
-El robot avanzará con velocidad angular y linear, hasta chocarse, retrocederá y dependiendo del lado del choque girará en un sentido u en otro un tiempo random entre 4 y 5.5 segundos. Si se encuentra que se está chocando muy seguido, pasa al estado scape mencionado en el apartado anterior.
+El robot avanzará con velocidad angular y linear, hasta chocarse, retrocederá y girará un tiempo random entre 4 y 5.5 segundos. Si se encuentra que se está chocando muy seguido, pasa al estado scape mencionado en el apartado anterior.
+
+Al avanzar, la curvatura es hacia la izquierda, por lo que al girar será hacia la derecha para no crear bucles de movimiento repitidos.
 
 [PhotoGrafo](Grafo.jpg)
 
